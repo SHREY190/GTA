@@ -382,7 +382,7 @@ const LandingPage = () => {
                     <div className="relative bg-gray-900 p-2 rounded-lg overflow-hidden">
                       <img
                         alt="GTA V Characters"
-                        src="./cyber.png"
+                        src="./imag.png"
                         className="w-full h-auto object-cover rounded-lg transform transition-transform hover:scale-105 duration-700"
                         style={noSelectStyle}
                         draggable="false"
