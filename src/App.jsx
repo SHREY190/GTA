@@ -1,7 +1,12 @@
 import React from "react";
+import LandingPage from "./pages/LandingPage";
 
 function App() {
-  return <div className="bg-gray-400">App</div>;
+  return (
+    <div>
+      <LandingPage />
+    </div>
+  );
 }
 
 export default App;
