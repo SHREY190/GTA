@@ -309,7 +309,6 @@ const LandingPage = () => {
               </div>
             </div>
 
-            {/* Second Section - Enhanced */}
             <div
               ref={secondSectionRef}
               className="w-full min-h-screen relative overflow-hidden bg-gradient-to-b from-black via-black to-[#050a14]"
@@ -538,7 +537,7 @@ const LandingPage = () => {
         )}
       </div>
 
-      {/* Add some global CSS animations */}
+      {/*Global CSS animations */}
       <style jsx global>{`
         @keyframes border-animation {
           0% {
